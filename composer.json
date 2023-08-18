@@ -1,5 +1,5 @@
 {
-    "name": "josipjelic/eav-bundle",
+    "name": "josipjelic/msgphp-eav-bundle",
     "type": "symfony-bundle",
     "description": "Basic entity-attribute-value management (the `EAV` domain)",
     "keywords": [

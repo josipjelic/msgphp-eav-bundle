@@ -6,6 +6,18 @@
         "entity-attribute-value",
         "eav"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/josipjelic/msgphp-eav.git",
+            "canonical": false
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/josipjelic/msgphp-domain.git",
+            "canonical": false
+        }
+    ],
     "license": "MIT",
     "authors": [
         {
